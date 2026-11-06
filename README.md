@@ -1,6 +1,6 @@
-# 忆栈 MemStack · Windows 安装包
+# MemStack 忆栈 · Windows 安装包
 
-忆栈（MemStack）是一款跨多家 AI 平台的**聊天会话管理系统**：把 ChatGPT、Claude、豆包、千问、元宝、DeepSeek 等 9 家 AI 的对话收进这台电脑上的一个资料库，支持全文检索、项目归集与 Markdown 导出。正文只存本机，不上传。
+MemStack（忆栈）是一款跨多家 AI 平台的**聊天会话管理系统**：把 ChatGPT、Claude、豆包、千问、元宝、DeepSeek 等 9 家 AI 的对话收进这台电脑上的一个资料库，支持全文检索、项目归集与 Markdown 导出。正文只存本机，不上传。
 
 本仓库只发布安装包，不含源码。
 
